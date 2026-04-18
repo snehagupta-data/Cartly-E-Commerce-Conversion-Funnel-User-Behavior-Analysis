@@ -1,4 +1,4 @@
-# 🛒 Cartly E-Commerce Analytics Project
+# 🛒 Cartly: E-Commerce Conversion Funnel & User Behavior Analysis
 
 > A complete end-to-end data analytics project on a fictional digital products e-commerce platform — built with Python, Pandas, and Seaborn.
 
