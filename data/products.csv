@@ -1,0 +1,201 @@
+product_id,product_name,category,sub_category,price,rating,created_date,is_active
+P0001,Python for Analysts,Course,Data Science,9100,3.1,2022-06-22,1
+P0002,SQL Mastery,Course,Data Science,4500,3.4,2023-01-16,0
+P0003,Machine Learning A-Z,Course,Data Science,2300,4.5,2024-11-17,1
+P0004,Power BI Bootcamp,Course,Data Science,7900,4.2,2022-05-16,1
+P0005,Data Viz with Tableau,Course,Data Science,1400,3.2,2022-02-16,1
+P0006,Python for Analysts 6,Course,Data Science,3900,4.2,2024-02-25,1
+P0007,SQL Mastery 7,Course,Data Science,8100,4.4,2022-11-05,1
+P0008,Machine Learning A-Z 8,Course,Data Science,9900,3.8,2024-04-26,1
+P0009,Power BI Bootcamp 9,Course,Data Science,6700,3.6,2024-07-04,1
+P0010,Data Viz with Tableau 10,Course,Data Science,1000,4.4,2022-09-06,1
+P0011,SEO Fundamentals,Course,Marketing,5300,3.3,2023-03-08,1
+P0012,Meta Ads Mastery,Course,Marketing,5300,3.2,2022-06-08,0
+P0013,Email Marketing Pro,Course,Marketing,2200,4.7,2023-07-12,1
+P0014,Content Strategy,Course,Marketing,8700,4.6,2023-02-15,1
+P0015,Growth Hacking,Course,Marketing,6800,3.2,2024-04-13,1
+P0016,SEO Fundamentals 16,Course,Marketing,5800,4.1,2022-05-03,1
+P0017,Meta Ads Mastery 17,Course,Marketing,9000,4.8,2024-08-18,1
+P0018,Email Marketing Pro 18,Course,Marketing,5600,3.4,2024-06-15,1
+P0019,Content Strategy 19,Course,Marketing,1800,4.3,2022-03-13,1
+P0020,Growth Hacking 20,Course,Marketing,4700,4.7,2022-05-04,1
+P0021,Figma UI/UX Course,Course,Design,2200,3.6,2023-08-14,1
+P0022,Canva for Business,Course,Design,9100,3.3,2023-07-21,1
+P0023,Brand Identity Design,Course,Design,5500,4.3,2022-11-22,1
+P0024,Motion Graphics,Course,Design,9900,4.3,2024-11-27,1
+P0025,Logo Design Pro,Course,Design,8700,3.3,2024-09-13,1
+P0026,Figma UI/UX Course 26,Course,Design,4100,3.9,2022-09-11,1
+P0027,Canva for Business 27,Course,Design,4400,4.4,2024-09-21,1
+P0028,Brand Identity Design 28,Course,Design,3800,3.6,2024-11-29,1
+P0029,Motion Graphics 29,Course,Design,1700,4.6,2022-12-22,1
+P0030,Logo Design Pro 30,Course,Design,5000,3.5,2023-09-16,1
+P0031,Stock Market Basics,Course,Finance,3700,4.8,2024-05-31,1
+P0032,Personal Finance 101,Course,Finance,5000,4.3,2022-11-27,1
+P0033,Crypto Investing,Course,Finance,6000,3.9,2024-09-25,1
+P0034,Financial Modeling,Course,Finance,4300,3.5,2022-08-05,0
+P0035,Excel for Finance,Course,Finance,8100,3.5,2024-04-17,0
+P0036,Stock Market Basics 36,Course,Finance,8400,4.8,2023-10-28,1
+P0037,Personal Finance 101 37,Course,Finance,6100,3.4,2023-07-17,1
+P0038,Crypto Investing 38,Course,Finance,2700,4.0,2024-03-02,1
+P0039,Financial Modeling 39,Course,Finance,1600,3.3,2022-06-20,1
+P0040,Excel for Finance 40,Course,Finance,3000,3.8,2024-11-23,1
+P0041,Notion Masterclass,Course,Productivity,1800,3.8,2023-08-21,1
+P0042,Time Management Pro,Course,Productivity,6900,3.5,2024-04-01,1
+P0043,GTD System,Course,Productivity,8000,4.4,2022-01-18,1
+P0044,Deep Work Course,Course,Productivity,2400,4.8,2024-11-25,1
+P0045,Second Brain,Course,Productivity,4400,3.7,2024-09-22,1
+P0046,Notion Masterclass 46,Course,Productivity,4700,3.3,2023-11-07,1
+P0047,Time Management Pro 47,Course,Productivity,1000,4.9,2023-02-14,1
+P0048,GTD System 48,Course,Productivity,3200,4.8,2024-02-28,1
+P0049,Deep Work Course 49,Course,Productivity,9000,4.7,2023-04-09,1
+P0050,Second Brain 50,Course,Productivity,7400,3.4,2024-08-04,1
+P0051,SQL Cheat Sheet eBook,Ebook,Data Science,700,4.1,2022-09-08,0
+P0052,Python Data Science Guide,Ebook,Data Science,200,3.6,2024-07-19,1
+P0053,Stats for Everyone,Ebook,Data Science,200,4.9,2022-06-23,0
+P0054,ML Basics eBook,Ebook,Data Science,600,3.1,2023-01-07,1
+P0055,AI Career Guide,Ebook,Data Science,300,4.5,2022-05-14,1
+P0056,SQL Cheat Sheet eBook 56,Ebook,Data Science,300,4.5,2024-04-07,0
+P0057,Python Data Science Guide 57,Ebook,Data Science,400,4.0,2024-10-21,1
+P0058,Stats for Everyone 58,Ebook,Data Science,400,4.1,2023-02-16,1
+P0059,ML Basics eBook 59,Ebook,Data Science,800,4.9,2022-11-26,1
+P0060,AI Career Guide 60,Ebook,Data Science,500,3.8,2023-04-30,1
+P0061,Cold Email Playbook,Ebook,Marketing,700,4.8,2023-11-12,1
+P0062,LinkedIn Growth eBook,Ebook,Marketing,900,3.5,2022-07-07,1
+P0063,Viral Content Guide,Ebook,Marketing,300,3.0,2023-06-10,1
+P0064,Brand Story eBook,Ebook,Marketing,500,3.4,2024-07-03,1
+P0065,Copywriting Bible,Ebook,Marketing,300,3.1,2024-09-07,1
+P0066,Cold Email Playbook 66,Ebook,Marketing,300,4.7,2022-02-18,1
+P0067,LinkedIn Growth eBook 67,Ebook,Marketing,300,3.5,2024-03-09,1
+P0068,Viral Content Guide 68,Ebook,Marketing,900,4.1,2022-11-29,1
+P0069,Brand Story eBook 69,Ebook,Marketing,900,4.6,2023-01-13,1
+P0070,Copywriting Bible 70,Ebook,Marketing,800,3.2,2022-10-23,0
+P0071,Color Theory Guide,Ebook,Design,800,3.8,2023-07-05,1
+P0072,UX Laws eBook,Ebook,Design,900,4.3,2022-03-26,1
+P0073,Typography Handbook,Ebook,Design,300,3.8,2022-04-05,1
+P0074,Design Systems eBook,Ebook,Design,700,3.5,2022-06-19,1
+P0075,Portfolio Guide,Ebook,Design,500,3.9,2024-04-13,1
+P0076,Color Theory Guide 76,Ebook,Design,800,3.6,2022-10-13,1
+P0077,UX Laws eBook 77,Ebook,Design,500,3.9,2022-04-28,1
+P0078,Typography Handbook 78,Ebook,Design,300,4.3,2022-03-20,1
+P0079,Design Systems eBook 79,Ebook,Design,200,4.9,2022-05-25,1
+P0080,Portfolio Guide 80,Ebook,Design,500,3.8,2022-09-16,1
+P0081,Budget Planner eBook,Ebook,Finance,900,4.7,2022-11-29,1
+P0082,Investment eBook,Ebook,Finance,200,3.8,2022-09-13,1
+P0083,Tax Saving Guide,Ebook,Finance,800,4.9,2023-02-16,1
+P0084,Wealth Building 101,Ebook,Finance,900,3.8,2023-03-20,1
+P0085,Passive Income Guide,Ebook,Finance,900,3.4,2022-08-29,1
+P0086,Budget Planner eBook 86,Ebook,Finance,500,4.2,2022-04-01,1
+P0087,Investment eBook 87,Ebook,Finance,200,3.1,2023-05-03,1
+P0088,Tax Saving Guide 88,Ebook,Finance,900,4.8,2024-02-21,1
+P0089,Wealth Building 101 89,Ebook,Finance,400,4.9,2022-03-30,1
+P0090,Passive Income Guide 90,Ebook,Finance,300,3.1,2022-10-16,1
+P0091,Morning Routine eBook,Ebook,Productivity,300,4.7,2024-11-14,1
+P0092,Focus Framework,Ebook,Productivity,800,4.9,2022-07-06,1
+P0093,Habit Stacking Guide,Ebook,Productivity,500,4.2,2024-06-18,1
+P0094,Deep Work eBook,Ebook,Productivity,300,4.3,2023-10-14,1
+P0095,Mindset Reset,Ebook,Productivity,700,3.4,2023-02-10,1
+P0096,Morning Routine eBook 96,Ebook,Productivity,700,3.5,2023-01-06,1
+P0097,Focus Framework 97,Ebook,Productivity,400,4.3,2024-11-09,1
+P0098,Habit Stacking Guide 98,Ebook,Productivity,900,4.9,2023-05-07,1
+P0099,Deep Work eBook 99,Ebook,Productivity,300,3.9,2022-01-15,1
+P0100,Mindset Reset 100,Ebook,Productivity,300,4.1,2022-04-24,1
+P0101,Social Media Calendar,Template,Marketing,1900,3.3,2023-02-16,1
+P0102,Email Campaign Template,Template,Marketing,1400,4.8,2022-04-17,1
+P0103,Landing Page Kit,Template,Marketing,1400,3.3,2023-03-19,1
+P0104,Content Planner,Template,Marketing,2000,3.6,2024-12-28,1
+P0105,Brand Kit,Template,Marketing,2300,3.0,2024-04-01,1
+P0106,Social Media Calendar 106,Template,Marketing,2000,4.9,2023-04-11,1
+P0107,Email Campaign Template 107,Template,Marketing,600,3.5,2022-07-28,1
+P0108,Landing Page Kit 108,Template,Marketing,600,3.3,2024-05-09,1
+P0109,Content Planner 109,Template,Marketing,1200,3.4,2024-07-28,1
+P0110,Brand Kit 110,Template,Marketing,1300,4.4,2022-11-13,1
+P0111,Pitch Deck Template,Template,Design,1100,4.0,2024-02-25,1
+P0112,Resume Template Pro,Template,Design,400,4.3,2022-05-24,1
+P0113,Business Card Pack,Template,Design,1100,3.0,2022-03-10,0
+P0114,Invoice Template,Template,Design,700,5.0,2024-09-16,1
+P0115,Portfolio Template,Template,Design,800,4.1,2023-11-18,1
+P0116,Pitch Deck Template 116,Template,Design,1600,3.0,2024-05-21,1
+P0117,Resume Template Pro 117,Template,Design,500,4.8,2024-12-09,1
+P0118,Business Card Pack 118,Template,Design,2000,4.7,2022-02-25,1
+P0119,Invoice Template 119,Template,Design,2100,3.3,2024-05-08,1
+P0120,Portfolio Template 120,Template,Design,700,3.6,2022-03-06,1
+P0121,Budget Tracker Sheet,Template,Finance,400,3.4,2023-07-10,1
+P0122,P&L Statement Template,Template,Finance,1000,3.2,2024-11-02,1
+P0123,Invoice Pack,Template,Finance,2000,4.9,2023-09-24,1
+P0124,Financial Dashboard,Template,Finance,700,4.7,2023-01-03,1
+P0125,Business Plan Template,Template,Finance,800,3.0,2023-10-03,1
+P0126,Budget Tracker Sheet 126,Template,Finance,1300,4.6,2023-10-02,1
+P0127,P&L Statement Template 127,Template,Finance,1000,3.3,2023-02-19,1
+P0128,Invoice Pack 128,Template,Finance,600,4.7,2023-08-18,1
+P0129,Financial Dashboard 129,Template,Finance,1800,3.4,2022-12-12,1
+P0130,Business Plan Template 130,Template,Finance,1700,3.6,2023-06-28,1
+P0131,Project Management Kit,Template,Productivity,1000,3.0,2022-12-13,1
+P0132,Weekly Planner,Template,Productivity,900,3.7,2023-09-11,1
+P0133,Goal Tracker Template,Template,Productivity,500,3.7,2023-03-10,1
+P0134,OKR Dashboard,Template,Productivity,1900,4.4,2023-09-13,1
+P0135,Meeting Notes Template,Template,Productivity,2000,4.9,2023-05-30,0
+P0136,Project Management Kit 136,Template,Productivity,600,3.4,2023-02-10,1
+P0137,Weekly Planner 137,Template,Productivity,1100,3.2,2022-03-01,1
+P0138,Goal Tracker Template 138,Template,Productivity,1600,4.5,2023-06-22,1
+P0139,OKR Dashboard 139,Template,Productivity,1300,4.2,2023-11-09,1
+P0140,Meeting Notes Template 140,Template,Productivity,1900,3.8,2022-06-29,0
+P0141,DataPrep Pro,Software Tool,Data Science,4100,3.5,2022-10-23,0
+P0142,CSV Wizard,Software Tool,Data Science,3200,4.0,2022-01-03,1
+P0143,AutoML Tool,Software Tool,Data Science,3900,4.4,2024-12-02,1
+P0144,Report Generator,Software Tool,Data Science,4700,3.7,2022-11-03,1
+P0145,Dataset Cleaner,Software Tool,Data Science,900,4.8,2024-10-28,1
+P0146,DataPrep Pro 146,Software Tool,Data Science,4400,4.3,2023-05-03,1
+P0147,CSV Wizard 147,Software Tool,Data Science,1200,4.0,2023-04-12,1
+P0148,AutoML Tool 148,Software Tool,Data Science,4700,3.7,2023-09-27,1
+P0149,Report Generator 149,Software Tool,Data Science,4900,4.1,2023-04-05,1
+P0150,Dataset Cleaner 150,Software Tool,Data Science,1700,4.3,2023-10-16,1
+P0151,SEO Rank Tracker,Software Tool,Marketing,2900,4.5,2024-11-18,1
+P0152,Email Finder Tool,Software Tool,Marketing,1600,4.1,2024-08-14,1
+P0153,Social Scheduler,Software Tool,Marketing,3000,4.7,2024-05-01,1
+P0154,Lead Capture Tool,Software Tool,Marketing,2400,3.4,2023-03-22,1
+P0155,UTM Builder,Software Tool,Marketing,4200,4.3,2024-07-31,0
+P0156,SEO Rank Tracker 156,Software Tool,Marketing,3400,3.9,2023-11-18,1
+P0157,Email Finder Tool 157,Software Tool,Marketing,1800,3.9,2024-03-05,1
+P0158,Social Scheduler 158,Software Tool,Marketing,1500,3.2,2024-10-20,1
+P0159,Lead Capture Tool 159,Software Tool,Marketing,3700,4.3,2024-10-28,1
+P0160,UTM Builder 160,Software Tool,Marketing,2600,4.6,2022-05-26,1
+P0161,Icon Generator,Software Tool,Design,2000,3.6,2024-11-11,1
+P0162,Color Palette Tool,Software Tool,Design,1700,3.0,2022-08-17,1
+P0163,Mockup Creator,Software Tool,Design,2000,4.2,2024-01-09,1
+P0164,Font Finder,Software Tool,Design,900,3.8,2023-12-09,1
+P0165,Background Remover,Software Tool,Design,4500,3.4,2024-06-13,1
+P0166,Icon Generator 166,Software Tool,Design,4900,4.0,2023-08-20,1
+P0167,Color Palette Tool 167,Software Tool,Design,2000,4.3,2022-08-18,1
+P0168,Mockup Creator 168,Software Tool,Design,500,4.6,2022-06-15,1
+P0169,Font Finder 169,Software Tool,Design,1900,4.6,2022-10-01,1
+P0170,Background Remover 170,Software Tool,Design,4900,3.9,2024-03-15,1
+P0171,GST Calculator,Software Tool,Finance,4000,4.8,2023-01-23,1
+P0172,Invoice Generator,Software Tool,Finance,1200,3.3,2023-12-11,1
+P0173,Expense Tracker App,Software Tool,Finance,3400,4.1,2024-11-03,1
+P0174,SIP Calculator,Software Tool,Finance,4000,3.6,2024-07-14,1
+P0175,Loan EMI Tool,Software Tool,Finance,3300,4.6,2024-08-09,1
+P0176,GST Calculator 176,Software Tool,Finance,3700,4.7,2023-10-25,1
+P0177,Invoice Generator 177,Software Tool,Finance,4000,4.8,2023-11-24,1
+P0178,Expense Tracker App 178,Software Tool,Finance,3500,3.5,2023-12-01,1
+P0179,SIP Calculator 179,Software Tool,Finance,2000,3.6,2024-09-17,0
+P0180,Loan EMI Tool 180,Software Tool,Finance,3800,4.3,2024-01-23,1
+P0181,Focus Timer App,Software Tool,Productivity,2200,3.2,2023-11-15,1
+P0182,Task Manager Tool,Software Tool,Productivity,2300,3.5,2022-12-31,1
+P0183,Notes App Pro,Software Tool,Productivity,2500,3.2,2024-04-19,0
+P0184,Meeting Summarizer,Software Tool,Productivity,1400,3.8,2022-12-26,1
+P0185,Habit Tracker App,Software Tool,Productivity,1400,3.1,2022-11-29,1
+P0186,Focus Timer App 186,Software Tool,Productivity,3100,4.1,2023-05-30,1
+P0187,Task Manager Tool 187,Software Tool,Productivity,3100,3.4,2022-04-07,1
+P0188,Notes App Pro 188,Software Tool,Productivity,3100,4.8,2023-08-29,1
+P0189,Meeting Summarizer 189,Software Tool,Productivity,4200,3.0,2024-12-16,1
+P0190,Habit Tracker App 190,Software Tool,Productivity,4100,4.0,2023-08-14,1
+P0191,Finance Template Extra 191,Template,Finance,1500,4.7,2023-10-13,1
+P0192,Finance Ebook Extra 192,Ebook,Finance,500,3.5,2024-01-25,1
+P0193,Finance Course Extra 193,Course,Finance,5300,4.3,2023-09-21,1
+P0194,Finance Ebook Extra 194,Ebook,Finance,400,5.0,2024-04-09,1
+P0195,Finance Course Extra 195,Course,Finance,8500,4.1,2022-02-12,1
+P0196,Finance Course Extra 196,Course,Finance,2700,4.7,2022-10-10,1
+P0197,Design Course Extra 197,Course,Design,5800,3.7,2023-12-08,1
+P0198,Finance Template Extra 198,Template,Finance,1500,3.6,2023-10-17,1
+P0199,Marketing Template Extra 199,Template,Marketing,1800,3.0,2024-04-17,1
+P0200,Design Course Extra 200,Course,Design,3800,4.3,2024-10-09,1
